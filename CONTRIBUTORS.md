@@ -10,3 +10,4 @@ TSC members are:
 ## Contributors and committers
   - John Belamaric, [johnbelamaric](https://github.com/johnbelamaric), Google, Committer
   - Stephen Wong, [s3wong](https://github.com/s3wong), Google, Committer
+  - Randolph Chung, [tausq](https://github.com/tausq), Google

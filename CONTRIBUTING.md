@@ -5,7 +5,7 @@ and welcomes all contributors.
 
 # Contributors
 A list of contributors, including the current Technical Steering Committee (TSC)
-membership, is in [CONTRIBUTORS.md].
+membership, is in [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 In addition to the TSC, there are two types of contributors: 
  * *Contributors* include anyone in the technical community that contributes

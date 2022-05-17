@@ -1,2 +1,2 @@
-# governance
-Charter, TSC, and other governance documents.
+# Nephio Governance
+This repository contains governance documents for Nephio.

@@ -13,3 +13,7 @@ TSC members are:
   - Randolph Chung, [tausq](https://github.com/tausq), Google
   - Tal Liron, [tliron](https://github.com/tliron), Red Hat
   - Vishwanath Jayaraman, [vjayaramrh](https://github.com/vjayaramrh), Red Hat
+  - Iain Wilkinson, [IainWilkinson](https://github.com/IainWilkinson), Vodafone
+  - Tom Kivlin, [tomkivlin](https://github.com/tomkivlin), Vodafone
+  - Riccardo Gasparetto-Stori, [rgstori](https://github.com/rgstori), Vodafone
+  - Selcuk Duman, [selcukduman](https://github.com/selcukduman), Vodafone

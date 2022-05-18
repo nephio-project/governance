@@ -11,6 +11,8 @@ TSC members are:
   - John Belamaric, [johnbelamaric](https://github.com/johnbelamaric), Google, Committer
   - Stephen Wong, [s3wong](https://github.com/s3wong), Google, Committer
   - Randolph Chung, [tausq](https://github.com/tausq), Google
+  - Tal Liron, [tliron](https://github.com/tliron), Red Hat
+  - Vishwanath Jayaraman, [vjayaramrh](https://github.com/vjayaramrh), Red Hat
   - Iain Wilkinson, [IainWilkinson](https://github.com/IainWilkinson), Vodafone
   - Tom Kivlin, [tomkivlin](https://github.com/tomkivlin), Vodafone
   - Riccardo Gasparetto-Stori, [rgstori](https://github.com/rgstori), Vodafone

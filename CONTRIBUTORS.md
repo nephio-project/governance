@@ -17,3 +17,5 @@ TSC members are:
   - Tom Kivlin, [tomkivlin](https://github.com/tomkivlin), Vodafone
   - Riccardo Gasparetto-Stori, [rgstori](https://github.com/rgstori), Vodafone
   - Selcuk Duman, [selcukduman](https://github.com/selcukduman), Vodafone
+  - Eric Debeau, [debeaueric](https://github.com/debeaueric), Orange
+  - William Diego, [william-diego](https://github.com/william-diego), Orange

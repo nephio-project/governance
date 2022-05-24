@@ -17,3 +17,5 @@ TSC members are:
   - Tom Kivlin, [tomkivlin](https://github.com/tomkivlin), Vodafone
   - Riccardo Gasparetto-Stori, [rgstori](https://github.com/rgstori), Vodafone
   - Selcuk Duman, [selcukduman](https://github.com/selcukduman), Vodafone
+  - Vishal Varvate,[NMSVishal](https://github.com/NMSVishal),Capgemini
+  - Tarashree Mulge,[mulgetara],(https://github.com/mulgetara),Capgemini

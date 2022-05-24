@@ -32,3 +32,5 @@ TSC members are:
   - Vishal Varvate,[NMSVishal](https://github.com/NMSVishal),Capgemini
   - Tarashree Mulge,[mulgetara],(https://github.com/mulgetara),Capgemini
   - Chandrashekhar Thakare,[chanduthakare],(https://github.com/chanduthakare),Capgemini
+  - Eric Debeau, [debeaueric](https://github.com/debeaueric), Orange
+  - William Diego, [william-diego](https://github.com/william-diego), Orange

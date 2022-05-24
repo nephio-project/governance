@@ -7,6 +7,7 @@ the TSC is responsible for all technical oversight of the Project. The current
 TSC members are:
   - Kandan Kathirval, Google (chair)
   - Bin Yang, Wind River
+  - Timo Perala, Nokia
 
 ## Contributors and committers
   - John Belamaric, [johnbelamaric](https://github.com/johnbelamaric), Google, Committer

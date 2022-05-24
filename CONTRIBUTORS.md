@@ -8,6 +8,7 @@ TSC members are:
   - Kandan Kathirval, Google (chair)
   - Bin Yang, Wind River
   - Timo Perala, Nokia
+  - Bernard Tsai, Deutsche Telekom
 
 ## Contributors and committers
   - John Belamaric, [johnbelamaric](https://github.com/johnbelamaric), Google, Committer
@@ -36,3 +37,4 @@ TSC members are:
   - William Diego, [william-diego](https://github.com/william-diego), Orange
   - Bernard Tsai, , Deutsche Telekom
   - Sebastian Zechlin, , Deutsche Telekom
+  - Marin Komadina, , Deutsche Telekom

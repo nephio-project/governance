@@ -42,4 +42,4 @@ TSC members are:
 | Sebastian Zechlin         |                                                       | Deutsche Telekom |           |
 | Marin Komadina            |                                                       | Deutsche Telekom |           |
 | Eric Gaudet               | [egaudet-casa](https://github.com/egaudet-casa)       | Casa Systems     |           |
-| Màtè Szalai               | [mszalai-casa](https://github.com/mszalai-casa)       | Casa Systems     |           |
+| Máté Szalai               | [mszalai-casa](https://github.com/mszalai-casa)       | Casa Systems     |           |

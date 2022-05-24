@@ -17,3 +17,5 @@ TSC members are:
   - Tom Kivlin, [tomkivlin](https://github.com/tomkivlin), Vodafone
   - Riccardo Gasparetto-Stori, [rgstori](https://github.com/rgstori), Vodafone
   - Selcuk Duman, [selcukduman](https://github.com/selcukduman), Vodafone
+  - Bernard Tsai, , Deutsche Telekom
+  - Sebastian Zechlin, , Deutsche Telekom

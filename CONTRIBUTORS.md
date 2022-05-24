@@ -27,3 +27,5 @@ TSC members are:
   - Jean-Marie Calmel, [JeanMarieCalmel](https://github.com/JeanMarieCalmel), Nokia
   - Wim Henderickx, [henderiw](https://github.com/henderiw), Nokia
   - Istvan Kispal, [kispaljr](https://github.com/kispaljr), Nokia
+  - Oleg Berzin, [zirben0](https://github.com/zirben0), Equinix
+  - Trishan de Lanerolle [trishan](https://github.com/trishan), Equinix

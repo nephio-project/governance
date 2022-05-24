@@ -29,3 +29,6 @@ TSC members are:
   - Istvan Kispal, [kispaljr](https://github.com/kispaljr), Nokia
   - Oleg Berzin, [zirben0](https://github.com/zirben0), Equinix
   - Trishan de Lanerolle [trishan](https://github.com/trishan), Equinix
+  - Vishal Varvate,[NMSVishal](https://github.com/NMSVishal),Capgemini
+  - Tarashree Mulge,[mulgetara],(https://github.com/mulgetara),Capgemini
+  - Chandrashekhar Thakare,[chanduthakare],(https://github.com/chanduthakare),Capgemini

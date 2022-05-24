@@ -36,3 +36,5 @@ TSC members are:
   - William Diego, [william-diego](https://github.com/william-diego), Orange
   - Bernard Tsai, , Deutsche Telekom
   - Sebastian Zechlin, , Deutsche Telekom
+  - Eric Gaudet, [egaudet-casa](https://github.com/egaudet-casa), Casa Systems
+  - Màtè Szalai, [mszalai-casa](https://github.com/mszalai-casa), Casa Systems

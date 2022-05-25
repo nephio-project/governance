@@ -50,3 +50,6 @@ TSC members are:
 | Fabrizio Moggio           | [FabrizioMoggio](https://github.com/FabrizioMoggio)   | TIM              |           |
 | Alessandro D'Alessandro   | [AG-Alessandro](https://github.com/AG-Alessandro)     | TIM              |           |
 | Raffaele Passannanti      | [rafpas-tim](https://github.com/rafpas-tim)           | TIM              |           |
+| Jane Shen                 | [Jane-Shen](https://github.com/janeslogic)            | Mavenir Systems  |           |
+| Lorby Bi                  | [Lorby-Bi](https://github.com/Lorby04)                | Mavenir Systems  |           |
+| Fisher Yu                 | [Fisher-Yu](https://github.com/yuff100/)              | Mavenir Systems  |           |

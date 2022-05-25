@@ -10,7 +10,8 @@ TSC members are:
   - Timo Perala, Nokia
   - Bernard Tsai, Deutsche Telekom
   - Iain Wilkinson, Vodafone
-  - Oleg Berzin, Equinix 
+  - Oleg Berzin, Equinix
+  - Cathy Zhang, Intel
 
 ## Contributors and committers
 
@@ -56,4 +57,4 @@ TSC members are:
 | Fisher Yu                 | [Fisher-Yu](https://github.com/yuff100/)              | Mavenir Systems  |           |
 | Cathy Zhang               | [cathyhongzhang](https://github.com/cathyhongzhang)   | Intel            |           |
 | Srinivasa Addepalli       | [saddepalli](https://github.com/saddepalli)           | Intel            |           |
-| Eric Multanen             | [snackewm]https://github.com/snackewm)                | Intel            |           |
+| Eric Multanen             | [snackewm](https://github.com/snackewm)               | Intel            |           |

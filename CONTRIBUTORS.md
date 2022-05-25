@@ -43,3 +43,6 @@ TSC members are:
 | Marin Komadina            |                                                       | Deutsche Telekom |           |
 | Eric Gaudet               | [egaudet-casa](https://github.com/egaudet-casa)       | Casa Systems     |           |
 | Máté Szalai               | [mszalai-casa](https://github.com/mszalai-casa)       | Casa Systems     |           |
+| Jane Shen                 | [Jane-Shen](https://github.com/janeslogic)            | Mavenir Systems  |           |
+| Lorby Bi                  | [Lorby-Bi](https://github.com/Lorby04)                | Mavenir Systems  |           |
+| Fisher Yu                 | [Fisher-Yu](https://github.com/yuff100/)              | Mavenir Systems  |           |

@@ -10,6 +10,7 @@ TSC members are:
   - Timo Perala, Nokia
   - Bernard Tsai, Deutsche Telekom
   - Iain Wilkinson, Vodafone
+  - Oleg Berzin, Equinix 
 
 ## Contributors and committers
 

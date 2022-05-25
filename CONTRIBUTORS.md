@@ -54,3 +54,6 @@ TSC members are:
 | Jane Shen                 | [Jane-Shen](https://github.com/janeslogic)            | Mavenir Systems  |           |
 | Lorby Bi                  | [Lorby-Bi](https://github.com/Lorby04)                | Mavenir Systems  |           |
 | Fisher Yu                 | [Fisher-Yu](https://github.com/yuff100/)              | Mavenir Systems  |           |
+| Cathy Zhang               | [cathyhongzhang](https://github.com/cathyhongzhang)   | Intel            |           |
+| Srinivasa Addepalli       | [saddepalli](https://github.com/saddepalli)           | Intel            |           |
+| Eric Multanen             | [snackewm]https://github.com/snackewm)                | Intel            |           |

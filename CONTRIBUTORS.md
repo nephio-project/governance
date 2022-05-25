@@ -9,6 +9,8 @@ TSC members are:
   - Bin Yang, Wind River
   - Timo Perala, Nokia
   - Bernard Tsai, Deutsche Telekom
+  - Iain Wilkinson, Vodafone
+  - Oleg Berzin, Equinix 
 
 ## Contributors and committers
 
@@ -41,8 +43,17 @@ TSC members are:
 | Bernard Tsai              |                                                       | Deutsche Telekom |           |
 | Sebastian Zechlin         |                                                       | Deutsche Telekom |           |
 | Marin Komadina            |                                                       | Deutsche Telekom |           |
+| Shilpa Padgaonkar         | [shilpa-padgaonkar](https://github.com/shilpa-padgaonkar)| Deutsche Telekom |           |
 | Eric Gaudet               | [egaudet-casa](https://github.com/egaudet-casa)       | Casa Systems     |           |
 | Máté Szalai               | [mszalai-casa](https://github.com/mszalai-casa)       | Casa Systems     |           |
+| Vance Shipley             | [vances](https://github.com/vances)                   | SigScale         |           |
+| Kusal Fernando            | [kusalfernando](https://github.com/kusalfernando)     | SigScale         |           |
+| Fabrizio Moggio           | [FabrizioMoggio](https://github.com/FabrizioMoggio)   | TIM              |           |
+| Alessandro D'Alessandro   | [AG-Alessandro](https://github.com/AG-Alessandro)     | TIM              |           |
+| Raffaele Passannanti      | [rafpas-tim](https://github.com/rafpas-tim)           | TIM              |           |
+| Jane Shen                 | [Jane-Shen](https://github.com/janeslogic)            | Mavenir Systems  |           |
+| Lorby Bi                  | [Lorby-Bi](https://github.com/Lorby04)                | Mavenir Systems  |           |
+| Fisher Yu                 | [Fisher-Yu](https://github.com/yuff100/)              | Mavenir Systems  |           |
 | Cathy Zhang               | [cathyhongzhang](https://github.com/cathyhongzhang)   | Intel            |           |
 | Srinivasa Addepalli       | [saddepalli](https://github.com/saddepalli)           | Intel            |           |
 | Eric Multanen             | [snackewm]https://github.com/snackewm)                | Intel            |           |

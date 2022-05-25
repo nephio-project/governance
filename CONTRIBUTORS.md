@@ -43,3 +43,6 @@ TSC members are:
 | Marin Komadina            |                                                       | Deutsche Telekom |           |
 | Eric Gaudet               | [egaudet-casa](https://github.com/egaudet-casa)       | Casa Systems     |           |
 | Máté Szalai               | [mszalai-casa](https://github.com/mszalai-casa)       | Casa Systems     |           |
+| Cathy Zhang               | [cathyhongzhang](https://github.com/cathyhongzhang)   | Intel            |           |
+| Srinivasa Addepalli       | [saddepalli](https://github.com/saddepalli)           | Intel            |           |
+| Eric Multanen             | [snackewm]https://github.com/snackewm)                | Intel            |           |

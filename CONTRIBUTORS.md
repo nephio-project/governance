@@ -43,3 +43,5 @@ TSC members are:
 | Marin Komadina            |                                                       | Deutsche Telekom |           |
 | Eric Gaudet               | [egaudet-casa](https://github.com/egaudet-casa)       | Casa Systems     |           |
 | Máté Szalai               | [mszalai-casa](https://github.com/mszalai-casa)       | Casa Systems     |           |
+| Vance Shipley             | [vances](https://github.com/vances)                   | SigScale         |           |
+| Kusal Fernando            | [kusalfernando](https://github.com/kusalfernando)     | SigScale         |           |

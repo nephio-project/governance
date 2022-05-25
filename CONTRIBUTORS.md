@@ -43,3 +43,6 @@ TSC members are:
 | Marin Komadina            |                                                       | Deutsche Telekom |           |
 | Eric Gaudet               | [egaudet-casa](https://github.com/egaudet-casa)       | Casa Systems     |           |
 | Máté Szalai               | [mszalai-casa](https://github.com/mszalai-casa)       | Casa Systems     |           |
+| Fabrizio Moggio           | [FabrizioMoggio](https://github.com/FabrizioMoggio)   | TIM              |           |
+| Alessandro D'Alessandro   | [AG-Alessandro](https://github.com/AG-Alessandro)     | TIM              |           |
+| Raffaele Passannanti      | [rafpas-tim](https://github.com/rafpas-tim)           | TIM              |           |

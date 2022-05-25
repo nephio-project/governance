@@ -41,6 +41,7 @@ TSC members are:
 | Bernard Tsai              |                                                       | Deutsche Telekom |           |
 | Sebastian Zechlin         |                                                       | Deutsche Telekom |           |
 | Marin Komadina            |                                                       | Deutsche Telekom |           |
+| Shilpa Padgaonkar         | [shilpa-padgaonkar](https://github.com/shilpa-padgaonkar)| Deutsche Telekom |           |
 | Eric Gaudet               | [egaudet-casa](https://github.com/egaudet-casa)       | Casa Systems     |           |
 | Máté Szalai               | [mszalai-casa](https://github.com/mszalai-casa)       | Casa Systems     |           |
 | Vance Shipley             | [vances](https://github.com/vances)                   | SigScale         |           |

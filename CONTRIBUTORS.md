@@ -9,6 +9,8 @@ TSC members are:
   - Bin Yang, Wind River
   - Timo Perala, Nokia
   - Bernard Tsai, Deutsche Telekom
+  - Jane Shen, Mavenir
+  
 
 ## Contributors and committers
 

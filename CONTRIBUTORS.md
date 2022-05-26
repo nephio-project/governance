@@ -40,6 +40,7 @@ Nominees for Additional TSC Seats:
   - Fabrizio Moggio, TIM
   - Sudhindra Chada, Ericsson
   - Eric Gaudet, Casa Systems
+  - Jane Shen, Mavenir
 
 ## Contributors and committers
 

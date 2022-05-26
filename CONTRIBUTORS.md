@@ -13,6 +13,7 @@ TSC members are:
   - Oleg Berzin, Equinix
   - Cathy Zhang, Intel
   - Fabrizio Moggio, TIM
+  - Sudhindra Chada, Ericsson
 
 ## Contributors and committers
 

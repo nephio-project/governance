@@ -36,32 +36,44 @@ To create and submit a simple pull request:
 1. Fork this repository by clicking the 'Fork' button in the upper-right corner
    of the screen.
 
-   ![GitHub Fork Button](github-fork-button.png)
+   ![GitHub Fork Button](img/github-fork-button.png)
 1. This will make a copy of the repository in your GitHub
    account.
 
-   ![GitHub Fork Info](github-fork-info.png)
+   ![GitHub Fork Info](img/github-fork-info.png)
 1. In that copy, click on the file you wish to edit (for example,
    `CONTRIBUTORS.md`), then click the pencil icon to edit the file:
 
-   ![GitHub Edit Button](github-edit-button.png)
+   ![GitHub Edit Button](img/github-edit-button.png)
 1. Edit the file, add a description of the change, choose the `Create a new
    branch` option, and click the `Propose changes` button.
 
-   ![GitHub Propose Change](github-propose-change.png)
+   ![GitHub Propose Change](img/github-propose-change.png)
 1. In the next screen, click `compare across forks`, then change the `base
    repository` to `nephio-project/governance`. `base` should be `main`. This
    will create the pull request back to the original Nephio repository, rather
    than to your fork. Click `Create pull request`.
 
-   ![GitHub PR Creation](github-pr-creation.png)
+   ![GitHub PR Creation](img/github-pr-creation.png)
 1. The next screen confirms the pull request creation. Be sure that `Allow edits
    by maintainers` is checked. This will allow us to resolve any conflicts
    without your intervention. Click `Create pull request`.
 
-   ![GitHub PR Confirm](github-pr-confirm.png)
+   ![GitHub PR Confirm](img/github-pr-confirm.png)
 1. You should see your pull request in the Pull Requests list on the main
    nephio-project/governance repository. We will review this and merge it if
    approved.
 
-   ![GitHub PR Done](github-pr-done.png)
+   ![GitHub PR Done](img/github-pr-done.png)
+
+
+## Updating your fork
+
+After PRs have been merged into the original repository, your fork will become
+out-of-date. This can cause conflicts if you make later edits to your fork that
+you wish to merge back to the original repository.
+
+Before making additional pull requests, go to your fork and update it to match
+the original by clicking `Fetch upstream`:
+
+![GitHub Fetch Upstream](img/github-fetch-upstream.png)

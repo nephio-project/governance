@@ -38,6 +38,7 @@ Nominees for Additional TSC Seats:
   - Oleg Berzin, Equinix
   - Cathy Zhang, Intel
   - Fabrizio Moggio, TIM
+  - Sudhindra Chada, Ericsson
 
 ## Contributors and committers
 
@@ -85,3 +86,6 @@ Nominees for Additional TSC Seats:
 | Cathy Zhang               | [cathyhongzhang](https://github.com/cathyhongzhang)   | Intel            |           |
 | Srinivasa Addepalli       | [saddepalli](https://github.com/saddepalli)           | Intel            |           |
 | Eric Multanen             | [snackewm](https://github.com/snackewm)               | Intel            |           |
+| Sudhindra Chada           | [sudhichada](https://github.com/sudhichada)           | Ericsson         |           |
+| Ciaran Johnston           | [ciaranjohnston](https://github.com/ciaranjohnston)   | Ericsson         |           |
+| Peter Worndle             | [peterwoerndle](https://github.com/peterwoerndle)     | Ericsson         |           |

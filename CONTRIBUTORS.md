@@ -6,6 +6,14 @@ As documented in the [charter](https://nephio.org/wp-content/uploads/sites/6/202
 the TSC is responsible for all technical oversight of the Project. The current
 TSC members are:
   - Kandan Kathirval, Google (chair)
+
+Add your name here for the TSC nomination. The details can be found here (https://wiki.nephio.org/pages/viewpage.action?pageId=360619). 
+
+Pre- requisite:
+
+The names and GitHub IDs of at least two employees of the organization that intend to actively contribute to the Project; and
+The contributor that would like to participate as a voting member of the TSC during the start-up phase on behalf of your organization. One person per organization.
+***
   - Bin Yang, Wind River
   - Timo Perala, Nokia
   - Bernard Tsai, Deutsche Telekom

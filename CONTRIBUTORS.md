@@ -1,11 +1,36 @@
 # Contributors
 
+This information is also available on the
+[wiki](https://wiki.nephio.org/pages/viewpage.action?pageId=360619).
+
+We are now starting the initial technical meetings of the Nephio Project.  The
+technical oversight body for the Nephio Project is the Technical Steering
+Committee (TSC). Of the voting members of the TSC during the start-up phase of
+the Project, 9 seats have been set aside for organizations that commit at least
+two technical developer resources (individuals that will actively contribute
+to the Nephio Project code base and technical discussions) to the project by
+submitting a pull request to the this file with the following information:
+
+* The name of your organization;
+* The names and GitHub IDs of at least two employees of the organization
+  that intend to actively contribute to the Project; and
+* The contributor that would like to participate as a voting member of the
+  TSC during the start-up phase on behalf of your organization.
+  One person per organization.
+
+The first two should be added to the table below using the same format as the
+other rows. The TSC nominee should be added to the TSC Nominees list.
+
+Interested organizations should submit pull requests to this file by May 31,
+2022. The [CONTRIBUTING.md](CONTRIBUTING.md) file contains an explanation of
+how to create a pull request.
+
 ## Technical Steering Committee (TSC)
 
-As documented in the [charter](https://nephio.org/wp-content/uploads/sites/6/2022/04/Nephio-Project-Technical-Charter-Final-4-11-2022-1.pdf),
-the TSC is responsible for all technical oversight of the Project. The current
-TSC members are:
+Current TSC:
   - Kandan Kathirval, Google (chair)
+
+Nominees for Additional TSC Seats:
   - Bin Yang, Wind River
   - Timo Perala, Nokia
   - Bernard Tsai, Deutsche Telekom
@@ -18,6 +43,7 @@ TSC members are:
 
 | Contributor               | GitHub User                                           | Company          | Committer |
 | ------------------------- | -------------------------------------------------     | ---------------- | --------- |
+| Kandan Kathirval          | [kandankathirvel](https://github.com/kandankathirvel) | Google           |           |
 | John Belamaric            | [johnbelamaric](https://github.com/johnbelamaric)     | Google           | Yes       |
 | Stephen Wong              | [s3wong](https://github.com/s3wong)                   | Google           | Yes       |
 | Randolph Chung            | [tausq](https://github.com/tausq)                     | Google           |           |

@@ -39,6 +39,7 @@ Nominees for Additional TSC Seats:
   - Cathy Zhang, Intel
   - Fabrizio Moggio, TIM
   - Sudhindra Chada, Ericsson
+  - Eric Gaudet, Casa Systems
 
 ## Contributors and committers
 

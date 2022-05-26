@@ -12,6 +12,7 @@ TSC members are:
   - Iain Wilkinson, Vodafone
   - Oleg Berzin, Equinix
   - Cathy Zhang, Intel
+  - Fabrizio Moggio, TIM
 
 ## Contributors and committers
 

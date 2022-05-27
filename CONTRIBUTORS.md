@@ -100,4 +100,4 @@ Nominees for Additional TSC Seats:
 | Sana Tariq                | [sanatariq610](https://github.com/sanatariq610)       | TELUS Canada     |           |
 | Andy Yun                  |                                                       | TELUS Canada     |           |
 | Sandeep Sharma            | [sandeepAarna](https://github.com/sandeepAarna)       | Aarna Networks   |           |
-| Vikas Kumar               | [vkumar]                                              | Aarna Networks   |           |
+| Vikas Kumar               | [vkumar](https://github.com/iamvikaskumar)            | Aarna Networks   |           |

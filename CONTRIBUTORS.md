@@ -96,4 +96,4 @@ Nominees for Additional TSC Seats:
 | Marc-Alexandre Choquette  | [mach5even](https://github.com/mach5even)             | Bell Canada      |
 | Ana Carolina Riekstin     | [acriekstin](https://github.com/acriekstin)           | Bell Canada      |
 | Sandeep Sharma            | [sandeepAarna](https://github.com/sandeepAarna)       | Aarna Networks   |           |
-| Vikas Kumar               | [vkumar]                                              | Aarna Networks   |           |
+| Vikas Kumar               | [vkumar](https://github.com/iamvikaskumar)            | Aarna Networks   |           |

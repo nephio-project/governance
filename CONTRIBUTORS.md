@@ -41,6 +41,7 @@ Nominees for Additional TSC Seats:
   - Sudhindra Chada, Ericsson
   - Eric Gaudet, Casa Systems
   - Jane Shen, Mavenir
+  - Daniel Bernier, Bell Canada
 
 ## Contributors and committers
 
@@ -90,4 +91,7 @@ Nominees for Additional TSC Seats:
 | Eric Multanen             | [snackewm](https://github.com/snackewm)               | Intel            |           |
 | Sudhindra Chada           | [sudhichada](https://github.com/sudhichada)           | Ericsson         |           |
 | Ciaran Johnston           | [ciaranjohnston](https://github.com/ciaranjohnston)   | Ericsson         |           |
-| Peter Worndle             | [peterwoerndle](https://github.com/peterwoerndle)     | Ericsson         |           |
+| Peter Worndle             | [peterwoerndle](https://github.com/peterwoerndle)     | Ericsson         |
+| Daniel Bernier            | [dabernie](https://github.com/dabernie)               | Bell Canada      |
+| Marc-Alexandre Choquette  | [mach5even](https://github.com/mach5even)             | Bell Canada      |
+| Ana Carolina Riekstin     | [acriekstin](https://github.com/acriekstin)           | Bell Canada      |

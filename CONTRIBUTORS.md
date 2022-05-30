@@ -45,6 +45,7 @@ Nominees for Additional TSC Seats:
   - Daniel Bernier, Bell Canada
   - Sana Tariq, TELUS
   - Sandeep Sharma, Aarna Networks
+  - Eric Debeau, Orange
 
 ## Contributors and committers
 

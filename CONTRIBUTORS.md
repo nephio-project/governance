@@ -43,6 +43,7 @@ Nominees for Additional TSC Seats:
   - Jane Shen, Mavenir
   - Daniel Bernier, Bell Canada
   - Sandeep Sharma, Aarna Networks
+  - Eric Debeau, Orange
 
 ## Contributors and committers
 

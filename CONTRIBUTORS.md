@@ -44,6 +44,8 @@ Nominees for Additional TSC Seats:
   - Jane Shen, Mavenir
   - Daniel Bernier, Bell Canada
   - Sana Tariq, TELUS
+  - Sandeep Sharma, Aarna Networks
+  - Eric Debeau, Orange
 
 ## Contributors and committers
 
@@ -98,3 +100,5 @@ Nominees for Additional TSC Seats:
 | Marc-Alexandre Choquette  | [mach5even](https://github.com/mach5even)             | Bell Canada      |
 | Ana Carolina Riekstin     | [acriekstin](https://github.com/acriekstin)           | Bell Canada      |
 | Sana Tariq                | [sanatariq610](https://github.com/sanatariq610)       | TELUS Canada     |
+| Sandeep Sharma            | [sandeepAarna](https://github.com/sandeepAarna)       | Aarna Networks   |           |
+| Vikas Kumar               | [vkumar](https://github.com/iamvikaskumar)            | Aarna Networks   |           |

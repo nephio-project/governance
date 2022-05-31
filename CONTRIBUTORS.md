@@ -97,4 +97,5 @@ Nominees for Additional TSC Seats:
 | Daniel Bernier            | [dabernie](https://github.com/dabernie)               | Bell Canada      |
 | Marc-Alexandre Choquette  | [mach5even](https://github.com/mach5even)             | Bell Canada      |
 | Ana Carolina Riekstin     | [acriekstin](https://github.com/acriekstin)           | Bell Canada      |
-| Sana Tariq                | [sanatariq610](https://github.com/sanatariq610)       | TELUS Canada     |
+| Sana Tariq                | [sanatariq610](https://github.com/sanatariq610)       | TELUS Canada     |            |
+| Andy Yun                  |                                                       | TELUS Canada     |            |

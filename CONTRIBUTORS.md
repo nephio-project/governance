@@ -44,6 +44,7 @@ Nominees for Additional TSC Seats:
   - Daniel Bernier, Bell Canada
   - Sandeep Sharma, Aarna Networks
   - Eric Debeau, Orange
+  - Hunor Demeter, VMware
 
 ## Contributors and committers
 
@@ -99,3 +100,6 @@ Nominees for Additional TSC Seats:
 | Ana Carolina Riekstin     | [acriekstin](https://github.com/acriekstin)           | Bell Canada      |
 | Sandeep Sharma            | [sandeepAarna](https://github.com/sandeepAarna)       | Aarna Networks   |           |
 | Vikas Kumar               | [vkumar](https://github.com/iamvikaskumar)            | Aarna Networks   |           |
+| Hunor Demeter             | [dhzzdh](https://github.com/dhzzdh)                   | VMware           |           |
+| Denes Nemeth              | [mr-denes-nemeth](https://github.com/mr-denes-nemeth) | VMware           |           |
+| Padma Sudarsa             | [psudarsVM](https://github.com/psudarsVM)             | VMware           |           |

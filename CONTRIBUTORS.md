@@ -43,7 +43,7 @@ Nominees for Additional TSC Seats:
   - Eric Gaudet, Casa Systems
   - Jane Shen, Mavenir
   - Daniel Bernier, Bell Canada
-  - Sana Tariq, TELUS 
+  - Sana Tariq, TELUS
 
 ## Contributors and committers
 

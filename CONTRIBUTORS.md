@@ -107,3 +107,4 @@ Nominees for Additional TSC Seats:
 | Hunor Demeter             | [dhzzdh](https://github.com/dhzzdh)                   | VMware           |           |
 | Denes Nemeth              | [mr-denes-nemeth](https://github.com/mr-denes-nemeth) | VMware           |           |
 | Padma Sudarsa             | [psudarsVM](https://github.com/psudarsVM)             | VMware           |           |
+| Jitendra Sapariya         | [jitendrs](https://github.com/jitendrs)               | Swisscom         |           |

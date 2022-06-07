@@ -8,6 +8,7 @@ TSC members are:
   - Kandan Kathirval, Google (chair)
   - Bin Yang, Wind River
   - Timo Perala, Nokia
+  - Sandip Sarkar
 
 ## Contributors and committers
   - John Belamaric, [johnbelamaric](https://github.com/johnbelamaric), Google, Committer

@@ -32,3 +32,4 @@ TSC members are:
   - Vishal Varvate,[NMSVishal](https://github.com/NMSVishal),Capgemini
   - Tarashree Mulge,[mulgetara],(https://github.com/mulgetara),Capgemini
   - Chandrashekhar Thakare,[chanduthakare],(https://github.com/chanduthakare),Capgemini
+  - Sandip Sarkar,[sandips777](https://github.com/sandips777),Capgemini

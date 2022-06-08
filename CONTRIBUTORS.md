@@ -82,7 +82,7 @@ Nominees for Additional TSC Seats:
 | Bernard Tsai              |                                                       | Deutsche Telekom |           |
 | Sebastian Zechlin         |                                                       | Deutsche Telekom |           |
 | Marin Komadina            |                                                       | Deutsche Telekom |           |
-| Shilpa Padgaonkar         | [shilpa-padgaonkar](https://github.com/shilpa-padgaonkar)| Deutsche Telekom |           |
+| Shilpa Padgaonkar         | [shilpa-padgaonkar](https://github.com/shilpa-padgaonkar)| Deutsche Telekom |        |
 | Eric Gaudet               | [egaudet-casa](https://github.com/egaudet-casa)       | Casa Systems     |           |
 | Máté Szalai               | [mszalai-casa](https://github.com/mszalai-casa)       | Casa Systems     |           |
 | Vance Shipley             | [vances](https://github.com/vances)                   | SigScale         |           |
@@ -98,12 +98,12 @@ Nominees for Additional TSC Seats:
 | Eric Multanen             | [snackewm](https://github.com/snackewm)               | Intel            |           |
 | Sudhindra Chada           | [sudhichada](https://github.com/sudhichada)           | Ericsson         |           |
 | Ciaran Johnston           | [ciaranjohnston](https://github.com/ciaranjohnston)   | Ericsson         |           |
-| Peter Worndle             | [peterwoerndle](https://github.com/peterwoerndle)     | Ericsson         |
-| Daniel Bernier            | [dabernie](https://github.com/dabernie)               | Bell Canada      |
-| Marc-Alexandre Choquette  | [mach5even](https://github.com/mach5even)             | Bell Canada      |
-| Ana Carolina Riekstin     | [acriekstin](https://github.com/acriekstin)           | Bell Canada      |
+| Peter Worndle             | [peterwoerndle](https://github.com/peterwoerndle)     | Ericsson         |           |
+| Daniel Bernier            | [dabernie](https://github.com/dabernie)               | Bell Canada      |           |
+| Marc-Alexandre Choquette  | [mach5even](https://github.com/mach5even)             | Bell Canada      |           |
+| Ana Carolina Riekstin     | [acriekstin](https://github.com/acriekstin)           | Bell Canada      |           |
 | Andy Yun                  |                                                       | TELUS Canada     |           |
-| Sana Tariq                | [sanatariq610](https://github.com/sanatariq610)       | TELUS Canada     |
+| Sana Tariq                | [sanatariq610](https://github.com/sanatariq610)       | TELUS Canada     |           |
 | Sandeep Sharma            | [sandeepAarna](https://github.com/sandeepAarna)       | Aarna Networks   |           |
 | Vikas Kumar               | [vkumar](https://github.com/iamvikaskumar)            | Aarna Networks   |           |
 | Hunor Demeter             | [dhzzdh](https://github.com/dhzzdh)                   | VMware           |           |
@@ -113,5 +113,5 @@ Nominees for Additional TSC Seats:
 | Secil Aydin Arsal         | [sclaydn](https://github.com/sclaydn)                 | Argela           |           |
 | Ozlem Tursak              | [ozlemtursak](https://github.com/ozlemtursak)         | Argela           |           |
 | Jitendra Sapariya         | [jitendrs](https://github.com/jitendrs)               | Swisscom         |           |
-| Chandrashekhar Thakare    | [chanduthakare],(https://github.com/chanduthakare)    | Capgemini        |           |
+| Chandrashekhar Thakare    | [chanduthakare](https://github.com/chanduthakare)     | Capgemini        |           |
 | Sandip Sarkar             | [sandips777](https://github.com/sandips777)           | Capgemini        |           |

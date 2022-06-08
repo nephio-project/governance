@@ -47,6 +47,7 @@ Nominees for Additional TSC Seats:
   - Sandeep Sharma, Aarna Networks
   - Eric Debeau, Orange
   - Hunor Demeter, VMware
+  - Erhan Lokman, Argela
 
 ## Contributors and committers
 
@@ -107,4 +108,7 @@ Nominees for Additional TSC Seats:
 | Hunor Demeter             | [dhzzdh](https://github.com/dhzzdh)                   | VMware           |           |
 | Denes Nemeth              | [mr-denes-nemeth](https://github.com/mr-denes-nemeth) | VMware           |           |
 | Padma Sudarsa             | [psudarsVM](https://github.com/psudarsVM)             | VMware           |           |
+| Erhan Lokman              |                                                       | Argela           |           |
+| Secil Aydin Arsal         | [sclaydn](https://github.com/sclaydn)                 | Argela           |           |
+| Ozlem Tursak              | [ozlemtursak](https://github.com/ozlemtursak)         | Argela           |           |
 | Jitendra Sapariya         | [jitendrs](https://github.com/jitendrs)               | Swisscom         |           |

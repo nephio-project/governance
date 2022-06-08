@@ -48,6 +48,7 @@ Nominees for Additional TSC Seats:
   - Eric Debeau, Orange
   - Hunor Demeter, VMware
   - Erhan Lokman, Argela
+  - Sandip Sarkar, Capgemini
 
 ## Contributors and committers
 
@@ -112,3 +113,5 @@ Nominees for Additional TSC Seats:
 | Secil Aydin Arsal         | [sclaydn](https://github.com/sclaydn)                 | Argela           |           |
 | Ozlem Tursak              | [ozlemtursak](https://github.com/ozlemtursak)         | Argela           |           |
 | Jitendra Sapariya         | [jitendrs](https://github.com/jitendrs)               | Swisscom         |           |
+| Chandrashekhar Thakare    | [chanduthakare],(https://github.com/chanduthakare)    | Capgemini        |           |
+| Sandip Sarkar             | [sandips777](https://github.com/sandips777)           | Capgemini        |           |

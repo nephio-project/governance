@@ -111,3 +111,4 @@ Nominees for Additional TSC Seats:
 | Erhan Lokman              |                                                       | Argela           |           |
 | Secil Aydin Arsal         | [sclaydn](https://github.com/sclaydn)                 | Argela           |           |
 | Ozlem Tursak              | [ozlemtursak](https://github.com/ozlemtursak)         | Argela           |           |
+| Jitendra Sapariya         | [jitendrs](https://github.com/jitendrs)               | Swisscom         |           |

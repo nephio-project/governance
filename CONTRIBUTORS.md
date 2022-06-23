@@ -49,6 +49,7 @@ Nominees for Additional TSC Seats:
   - Hunor Demeter, VMware
   - Erhan Lokman, Argela
   - Sandip Sarkar, Capgemini
+  - Sanju Abraham, F5
   - Sebastian Scheele, Kubermatic
 
 ## Contributors and committers
@@ -116,5 +117,8 @@ Nominees for Additional TSC Seats:
 | Jitendra Sapariya         | [jitendrs](https://github.com/jitendrs)               | Swisscom         |           |
 | Chandrashekhar Thakare    | [chanduthakare](https://github.com/chanduthakare)     | Capgemini        |           |
 | Sandip Sarkar             | [sandips777](https://github.com/sandips777)           | Capgemini        |           |
+| Sanju Abraham             | [sanju-a](https://github.com/sanju-a)                 | F5               |           |
+| Marcel Wiget              | [mwiget](https://github.com/mwiget)                   | F5               |           |
+| Ravi Ravindran            | [rravindran123](https://github.com/rravindran123)     | F5               |           |
 | Rastislav Szabo           | [rastislavs](https://github.com/rastislavs)           | Kubermatic       |           |
 | Moath Qasim               | [moadqassem](https://github.com/moadqassem)           | Kubermatic       |           |

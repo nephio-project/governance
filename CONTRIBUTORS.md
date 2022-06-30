@@ -64,6 +64,7 @@ Nominees for Additional TSC Seats:
 | Jon Zhang                 | [jonrzhang](https://github.com/jonrzhang)             | Wind River       |           |
 | Tao Wang                  | [twang988](https://github.com/twang988)               | Wind River       |           |
 | Litao Gao                 | [gaolitao](https://github.com/gaolitao)               | Wind River       |           |
+| Balaji Varadaraju         | [gvbalaji](https://github.com/gvbalaji)               | Red Hat          |           |
 | Tal Liron                 | [tliron](https://github.com/tliron)                   | Red Hat          |           |
 | Vishwanath Jayaraman      | [vjayaramrh](https://github.com/vjayaramrh)           | Red Hat          |           |
 | Iain Wilkinson            | [IainWilkinson](https://github.com/IainWilkinson)     | Vodafone         |           |

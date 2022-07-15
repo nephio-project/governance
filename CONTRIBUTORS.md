@@ -123,3 +123,8 @@ Nominees for Additional TSC Seats:
 | Ravi Ravindran            | [rravindran123](https://github.com/rravindran123)     | F5               |           |
 | Rastislav Szabo           | [rastislavs](https://github.com/rastislavs)           | Kubermatic       |           |
 | Moath Qasim               | [moadqassem](https://github.com/moadqassem)           | Kubermatic       |           |
+| Cristian Cordos           | [cristiancordos](https://github.com/cristiancordos)   | Keysight       |           |
+| Bogdan Vasile             | [bogdanv12](https://github.com/bogdanv12)             | Keysight       |           |
+| Nicolae Mola              | [nicomola](https://github.com/nicomola).              | Keysight       |           |
+| Vlad Butusina             | [vladbutusinakeysight](https://github.com/vladbutusinakeysight)| Keysight       |           |
+| Adrian Stan               | [ags3](https://github.com/ags3)                       | Keysight       |           |

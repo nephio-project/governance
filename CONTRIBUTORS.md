@@ -129,3 +129,5 @@ Nominees for Additional TSC Seats:
 | Nicolae Mola              | [nicomola](https://github.com/nicomola).              | Keysight       |           |
 | Vlad Butusina             | [vladbutusinakeysight](https://github.com/vladbutusinakeysight)| Keysight       |           |
 | Adrian Stan               | [ags3](https://github.com/ags3)                       | Keysight       |           |
+| Alexis Duque              | [alexisduque](https://github.com/alexisduque)         | Net AI           |           |
+| Rokas Gudavicius          | [roxerg](https://github.com/roxerg)                   | Net AI           |           |

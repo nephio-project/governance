@@ -37,7 +37,7 @@ Nominees for Additional TSC Seats:
   - Bernard Tsai, Deutsche Telekom
   - Iain Wilkinson, Vodafone
   - Oleg Berzin, Equinix
-  - Cathy Zhang, Intel
+  - Sundar Nadathur, Intel
   - Fabrizio Moggio, TIM
   - Sudhindra Chada, Ericsson
   - Eric Gaudet, Casa Systems

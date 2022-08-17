@@ -51,6 +51,7 @@ Nominees for Additional TSC Seats:
   - Sandip Sarkar, Capgemini
   - Sanju Abraham, F5
   - Sebastian Scheele, Kubermatic
+  - Gene Bagwell, Verizon
 
 ## Contributors and committers
 
@@ -131,3 +132,6 @@ Nominees for Additional TSC Seats:
 | Adrian Stan               | [ags3](https://github.com/ags3)                       | Keysight       |           |
 | Alexis Duque              | [alexisduque](https://github.com/alexisduque)         | Net AI           |           |
 | Rokas Gudavicius          | [roxerg](https://github.com/roxerg)                   | Net AI           |           |
+| Gene Bagwell              | [mebagwell](https://github.com/mebagwell)             | Verizon          |           |
+| Bharath Thiruveedula      | [bharaththiruveedula](https://github.com/bharaththiruveedula)             | Verizon          |           |
+| Satyendra Gupta           | [Satya959](https://github.com/Satya959)               | Verizon          |           |

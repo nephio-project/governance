@@ -60,7 +60,6 @@ Nominees for Additional TSC Seats:
 | Kandan Kathirval          | [kandankathirvel](https://github.com/kandankathirvel) | Google           |           |
 | John Belamaric            | [johnbelamaric](https://github.com/johnbelamaric)     | Google           | Yes       |
 | Stephen Wong              | [s3wong](https://github.com/s3wong)                   | Google           | Yes       |
-| Randolph Chung            | [tausq](https://github.com/tausq)                     | Google           |           |
 | Glen McGowan              | [GlenMcGowan](https://github.com/GlenMcGowan)         | Google           |           |
 | Bin Yang                  | [biny993](https://github.com/biny993)                 | Wind River       |           |
 | Jon Zhang                 | [jonrzhang](https://github.com/jonrzhang)             | Wind River       |           |

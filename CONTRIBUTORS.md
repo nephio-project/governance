@@ -83,6 +83,7 @@ Nominees for Additional TSC Seats:
 | Chandrashekhar Thakare    | [chanduthakare](https://github.com/chanduthakare)     | Capgemini        |           |
 | Eric Debeau               | [debeaueric](https://github.com/debeaueric)           | Orange           |           |
 | William Diego             | [william-diego](https://github.com/william-diego)     | Orange           |           |
+| Grzegorz Panek            | [grzegorzpnk] (https://github.com/grzegorzpnk)        | Orange           |           |
 | Bernard Tsai              | [BernardTsai-DT](https://github.com/BernardTsai-DT)   | Deutsche Telekom |           |
 | Sebastian Zechlin         |                                                       | Deutsche Telekom |           |
 | Marin Komadina            |                                                       | Deutsche Telekom |           |

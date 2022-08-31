@@ -114,6 +114,8 @@ Nominees for Additional TSC Seats:
 | Hunor Demeter             | [dhzzdh](https://github.com/dhzzdh)                   | VMware           |           |
 | Denes Nemeth              | [mr-denes-nemeth](https://github.com/mr-denes-nemeth) | VMware           |           |
 | Padma Sudarsa             | [psudarsVM](https://github.com/psudarsVM)             | VMware           |           |
+| Yao Wang                  | [xiaonanowang](https://github.com/xiaonanowang)       | VMware           |           |
+| Akshatha Sathyanarayan    | [vmware2](https://github.com/vmware2)                 | VMware           |           |
 | Erhan Lokman              |                                                       | Argela           |           |
 | Secil Aydin Arsal         | [sclaydn](https://github.com/sclaydn)                 | Argela           |           |
 | Ozlem Tursak              | [ozlemtursak](https://github.com/ozlemtursak)         | Argela           |           |

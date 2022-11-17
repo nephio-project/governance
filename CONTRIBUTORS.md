@@ -10,7 +10,7 @@ Committee (TSC). Of the voting members of the TSC during the start-up phase of
 the Project, 9 seats have been set aside for organizations that commit at least
 two technical developer resources (individuals that will actively contribute
 to the Nephio Project code base and technical discussions) to the project by
-submitting a pull request to the this file with the following information:
+submitting a pull request to this file with the following information:
 
 * The name of your organization;
 * The names and GitHub IDs of at least two employees of the organization

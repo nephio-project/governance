@@ -84,6 +84,10 @@ Nominees for Additional TSC Seats:
 | Eric Debeau               | [debeaueric](https://github.com/debeaueric)           | Orange           |           |
 | William Diego             | [william-diego](https://github.com/william-diego)     | Orange           |           |
 | Grzegorz Panek            | [grzegorzpnk](https://github.com/grzegorzpnk)         | Orange           |           |
+| Ilhem Fajjari             | [Ilhemfajjari](https://github.com/Ilhemfajjari)       | Orange           |           |
+| Nour El Houda Nouar       | [nouarnoorelhouda](https://github.com/nouarnoorelhouda)| Orange           |          |
+| Piotr Matysiak            | [pmatysiakq](https://github.com/pmatysiakq)           | Orange           |           |
+| Iwona Wojdan              | [iwojdan](https://github.com/iwojdan)                 | Orange           |           |
 | Bernard Tsai              | [BernardTsai-DT](https://github.com/BernardTsai-DT)   | Deutsche Telekom |           |
 | Sebastian Zechlin         |                                                       | Deutsche Telekom |           |
 | Marin Komadina            |                                                       | Deutsche Telekom |           |

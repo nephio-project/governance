@@ -61,12 +61,13 @@ Nominees for Additional TSC Seats:
 | John Belamaric            | [johnbelamaric](https://github.com/johnbelamaric)     | Google           | Yes       |
 | Stephen Wong              | [s3wong](https://github.com/s3wong)                   | Google           | Yes       |
 | Glen McGowan              | [GlenMcGowan](https://github.com/GlenMcGowan)         | Google           |           |
+| Tal Liron                 | [tliron](https://github.com/tliron)                   | Google           |           |
 | Bin Yang                  | [biny993](https://github.com/biny993)                 | Wind River       |           |
 | Jon Zhang                 | [jonrzhang](https://github.com/jonrzhang)             | Wind River       |           |
 | Tao Wang                  | [twang988](https://github.com/twang988)               | Wind River       |           |
 | Litao Gao                 | [gaolitao](https://github.com/gaolitao)               | Wind River       |           |
 | Balaji Varadaraju         | [gvbalaji](https://github.com/gvbalaji)               | Red Hat          |           |
-| Tal Liron                 | [tliron](https://github.com/tliron)                   | Red Hat          |           |
+| Alexis de Talhouët        | [adetalhouet](https://github.com/adetalhouet)         | Red Hat          |           |
 | Vishwanath Jayaraman      | [vjayaramrh](https://github.com/vjayaramrh)           | Red Hat          |           |
 | Iain Wilkinson            | [IainWilkinson](https://github.com/IainWilkinson)     | Vodafone         |           |
 | Tom Kivlin                | [tomkivlin](https://github.com/tomkivlin)             | Vodafone         |           |

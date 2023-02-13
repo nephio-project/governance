@@ -121,6 +121,8 @@ Nominees for Additional TSC Seats:
 | Padma Sudarsa             | [psudarsVM](https://github.com/psudarsVM)             | VMware           |           |
 | Yao Wang                  | [xiaonanowang](https://github.com/xiaonanowang)       | VMware           |           |
 | Akshatha Sathyanarayan    | [vmware2](https://github.com/vmware2)                 | VMware           |           |
+| Denys Aleksansrov         | [denysaleksandrov](https://github.com/denysaleksandrov)| VMware          |           |
+| Dmitriy Andrushko         | [dandrushko](https://github.com/dandrushko)           | VMware           |           |
 | Erhan Lokman              |                                                       | Argela           |           |
 | Secil Aydin Arsal         | [sclaydn](https://github.com/sclaydn)                 | Argela           |           |
 | Ozlem Tursak              | [ozlemtursak](https://github.com/ozlemtursak)         | Argela           |           |

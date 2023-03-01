@@ -41,27 +41,37 @@ where they may wish to participate.
   - Cluster Selection
   - Cross-Cluster Dependencies
 
-In terms of package lifecycle, this includes everything up to and including "fan
-out", where the initial instances of per-cluster packages have been created and
+In terms of package lifecycle, this includes everything up to and including fan
+out, where the initial instances of per-cluster packages have been created and
 have had basic variance injected by the PackageVariant controller. It does not
 include additional per-cluster specialization done after fan out.
 
 In terms of known R1 components, this subproject will focus on:
+- Topology controllers
+- High-level intent controllers
 - Porch and Porch enhancements (PackageVariant, PackageVariantSet)
   - General purpose package management components and tooling
   - Packages, PackageRevisions
   - PackageVariant controller enhancement design and implementation
   - PackageVariantSet controller enhancement design and implementation
   - Cross-package dependencies
+  - Mostly this will be upstream in Porch/kpt though dependencies we may do in
+    Nephio repositories and upstream it later, if appropriate
 - Nephio UI
   - Likely in R1 this will be simply minor enhancements to the Porch/workshop UI
   - A Nephio-specific UI is desirable in the future
 
 **Primary Skills**
-- Kubernetes Basics
-- Kubernetes API and Controller Design
-- Configuration Management, specifically `kpt` and Porch
-- KRM Functions
+- Kubernetes Basics, [Kubernetes Resource Model](https://github.com/nephio-project/docs/blob/main/glossary.md#kubernetes-resource-model) (KRM)
+- Kubernetes [CRD](https://github.com/nephio-project/docs/blob/main/glossary.md#custom-resource-definition) and
+  [Controller](https://github.com/nephio-project/docs/blob/main/glossary.md#controller) Design
+- [Configuration](https://github.com/nephio-project/docs/blob/main/glossary.md#configuration) Management, specifically [kpt](https://github.com/nephio-project/docs/blob/main/glossary.md#kpt) and [Porch](https://github.com/nephio-project/docs/blob/main/glossary.md#porch), and concepts such as:
+  - [Hydration](https://github.com/nephio-project/docs/blob/main/glossary.md#hydration)
+  - [Fan out](https://github.com/nephio-project/docs/blob/main/glossary.md#fanout) and more general [variant generation](https://github.com/nephio-project/docs/blob/main/glossary.md#variant-generation)
+  - [Value propagation](https://github.com/nephio-project/docs/blob/main/glossary.md#value-propagation)
+- [KRM
+  Functions](https://github.com/nephio-project/docs/blob/main/glossary.md#krm-function)
+- Telco network function topology and architectures
 
 ### Package Specialization
 **Interim Subproject Lead**: Wim Henderickx, @henderiw
@@ -97,14 +107,17 @@ In terms of known R1 components, this subproject will focus on:
 - Status aggregation
 
 **Primary Skills**
-- Kubernetes Basics
-- Kubernetes API and Controller Design
-- kpt/Porch conditions and injectors (rather than PackageVariant, etc)
-- KRM Functions
+- Kubernetes Basics, [Kubernetes Resource Model](https://github.com/nephio-project/docs/blob/main/glossary.md#kubernetes-resource-model) (KRM)
+- Kubernetes [CRD](https://github.com/nephio-project/docs/blob/main/glossary.md#custom-resource-definition) and
+  [Controller](https://github.com/nephio-project/docs/blob/main/glossary.md#controller) Design
+- [Package conditions](https://github.com/nephio-project/docs/blob/main/glossary.md#package-condition) and [injectors](https://github.com/nephio-project/docs/blob/main/glossary.md#injector) (rather than PackageVariant, etc)
+- [KRM
+  Functions](https://github.com/nephio-project/docs/blob/main/glossary.md#krm-function)
 - Knowledge of network function requirements such as:
   - IP Address Management
   - Interface configuration (VLAN assignment for example)
   - CNI
+- Knowledge of existing NF Kubernetes deployments (Helm charts and similar packages)
 
 ### Workload Cluster
 **Subproject Lead**: Tal Liron, @tliron
@@ -124,12 +137,13 @@ In terms of known R1 components, this subproject will focus on:
 - ConfigSync in the workload clusters
 - free5gc Operator
 - NAD configuration
-- Other node-level network or kernel configurtion
+- Other node-level network or kernel configuration
 
 **Primary Skills**
-- Network functions
-- Kubernetes Basics
-- Kubernetes API and Controller Design
+- Network functions generally, and free5gc in particular
+- Kubernetes Basics, [Kubernetes Resource Model](https://github.com/nephio-project/docs/blob/main/glossary.md#kubernetes-resource-model) (KRM)
+- Kubernetes [CRD](https://github.com/nephio-project/docs/blob/main/glossary.md#custom-resource-definition) and
+  [Controller](https://github.com/nephio-project/docs/blob/main/glossary.md#controller) Design
 - Knowledge of network function requirements such as:
   - IP Address Management
   - Interface configuration (VLAN assignment for example)

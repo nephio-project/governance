@@ -28,6 +28,14 @@ and to build the necessary skills. However, it can be useful to list the primary
 skills and areas of expertise involved in each group, to help people decide
 where they may wish to participate.
 
+Note that CRD design is something all teams will do, though each subproject will
+have a different set of CRDs to work on based on their scope. Subprojects should
+review each others' CRD proposals to ensure consistency and that they work
+together as expected. Post R1, we will likely need to introduce an API review
+subproject, similar to the
+[one](https://github.com/kubernetes/community/tree/master/sig-architecture#architecture-and-api-governance-1)
+in Kubernetes.
+
 ### Package Management
 **Subproject Lead**: John Belamaric, @johnbelamaric
 
@@ -71,6 +79,13 @@ In terms of known R1 components, this subproject will focus on:
   - [Value propagation](https://github.com/nephio-project/docs/blob/main/glossary.md#value-propagation)
 - [KRM
   Functions](https://github.com/nephio-project/docs/blob/main/glossary.md#krm-function)
+- Go programming for controllers
+- UI Design and development
+  - Current prototype is a lightly modified version of the [Porch
+    UI](https://github.com/GoogleContainerTools/kpt-backstage-plugins)
+  - This is a [Backstage](https://backstage.io) Plugin, based on
+    [React](https://reactjs.org/) primarily
+  - Post R1, technology of a Nephio-specific UI is an open question
 - Telco network function topology and architectures
 
 ### Package Specialization
@@ -113,6 +128,7 @@ In terms of known R1 components, this subproject will focus on:
 - [Package conditions](https://github.com/nephio-project/docs/blob/main/glossary.md#package-condition) and [injectors](https://github.com/nephio-project/docs/blob/main/glossary.md#injector) (rather than PackageVariant, etc)
 - [KRM
   Functions](https://github.com/nephio-project/docs/blob/main/glossary.md#krm-function)
+- Go programming for controllers
 - Knowledge of network function requirements such as:
   - IP Address Management
   - Interface configuration (VLAN assignment for example)
@@ -144,6 +160,7 @@ In terms of known R1 components, this subproject will focus on:
 - Kubernetes Basics, [Kubernetes Resource Model](https://github.com/nephio-project/docs/blob/main/glossary.md#kubernetes-resource-model) (KRM)
 - Kubernetes [CRD](https://github.com/nephio-project/docs/blob/main/glossary.md#custom-resource-definition) and
   [Controller](https://github.com/nephio-project/docs/blob/main/glossary.md#controller) Design
+- Go programming for controllers
 - Knowledge of network function requirements such as:
   - IP Address Management
   - Interface configuration (VLAN assignment for example)

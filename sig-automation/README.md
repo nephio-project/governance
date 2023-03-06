@@ -9,6 +9,14 @@ As agreed to by the TSC and documented in the approved [Nephio Community
 Document](https://docs.google.com/document/d/1agsjCN3aCjgPftO8AL4sCkv3Dp2ZRZ82-ikuVHAJTL8/edit?usp=sharing),
 this SIG group focuses on design and standardization of schemas, CRDs, and operators; development of CRDs, Operators, related tooling & reference Implementation; and packaging and testing of functional components of Nephio.
 
+## Community
+
+Most activity is coordinated over the [#sig-automation](https://nephio.slack.com/archives/C03MB5GRATS)
+Slack channel.
+
+For details on meetings and links to other resources see the [SIG Automation
+wiki page](https://wiki.nephio.org/display/HOME/SIG+Automation).
+
 ## Subprojects
 
 Recall the high-level functional components shown in the *Nephio Functional

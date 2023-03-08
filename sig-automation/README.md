@@ -174,3 +174,24 @@ In terms of known R1 components, this subproject will focus on:
   - Interface configuration (VLAN assignment for example)
   - CNI
 - Multus
+
+### Helm Integration
+**Subproject Lead**: Ciaran Johnston, @ciaranjohnston
+
+This group will study and propose how Helm integrates with Nephio. The goals
+include:
+- Articulate the goals in supporting Helm. For example, is this to primarily
+  to leverage existing investements, or for some additional reasons.
+- Discover vendor, carrier, and other stakeholder requirements
+- Identify and document existing integration points and best practices
+- Identify Nephio changes that are needed to meet the goals and requirements
+
+**Scope**
+- Research requirements around Helm integration (R1 timeframe)
+- Delineate options for integration of Helm (post R1)
+
+**Primary Skills**
+- Network function deployment and configuration
+- Helm
+- Nephio config management features (for post R1)
+

@@ -103,7 +103,6 @@ Nominees for Additional TSC Seats:
 | Jane Shen                 | [Jane-Shen](https://github.com/janeslogic)            | Mavenir Systems  |           |
 | Lorby Bi                  | [Lorby-Bi](https://github.com/Lorby04)                | Mavenir Systems  |           |
 | Fisher Yu                 | [Fisher-Yu](https://github.com/yuff100/)              | Mavenir Systems  |           |
-| Cathy Zhang               | [cathyhongzhang](https://github.com/cathyhongzhang)   | Intel            |           |
 | Sundar Nadathur           | [ns-sundar](https://github.com/ns-sundar)             | Intel            |           |
 | Eric Multanen             | [snackewm](https://github.com/snackewm)               | Intel            |           |
 | Sudhindra Chada           | [sudhichada](https://github.com/sudhichada)           | Ericsson         |           |

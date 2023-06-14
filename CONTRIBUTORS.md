@@ -142,5 +142,5 @@ Nominees for Additional TSC Seats:
 | Alexis Duque              | [alexisduque](https://github.com/alexisduque)         | Net AI           |           |
 | Rokas Gudavicius          | [roxerg](https://github.com/roxerg)                   | Net AI           |           |
 | Gene Bagwell              | [mebagwell](https://github.com/mebagwell)             | Verizon          |           |
-| Bharath Thiruveedula      | [bharaththiruveedula](https://github.com/bharaththiruveedula)             | Verizon          |           |
+| Bharath Thiruveedula      | [bharath-vz](https://github.com/bharath-vz)           | Verizon          |           |
 | Satyendra Gupta           | [Satya959](https://github.com/Satya959)               | Verizon          |           |

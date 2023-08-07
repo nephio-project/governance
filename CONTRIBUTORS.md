@@ -26,32 +26,31 @@ Interested organizations should submit pull requests to this file by May 31,
 2022. The [CONTRIBUTING.md](CONTRIBUTING.md) file contains an explanation of
 how to create a pull request.
 
-## Technical Steering Committee (TSC)
+## Technical Steering Committee (TSC) - Voting Members
 
-Current TSC:
-  - Kandan Kathirval, Google (chair)
-
-Nominees for Additional TSC Seats:
-  - Bin Yang, Wind River
-  - Timo Perala, Nokia
-  - Bernard Tsai, Deutsche Telekom
-  - Iain Wilkinson, Vodafone
-  - Oleg Berzin, Equinix
-  - Sundar Nadathur, Intel
-  - Fabrizio Moggio, TIM
-  - Sudhindra Chada, Ericsson
-  - Eric Gaudet, Casa Systems
-  - Jane Shen, Mavenir
-  - Daniel Bernier, Bell Canada
-  - Sana Tariq, TELUS
-  - Sandeep Sharma, Aarna Networks
-  - Eric Debeau, Orange
-  - Hunor Demeter, VMware
-  - Erhan Lokman, Argela
-  - Sandip Sarkar, Capgemini
-  - Sanju Abraham, F5
-  - Sebastian Scheele, Kubermatic
-  - Gene Bagwell, Verizon
+| Name | Organization |
+| ---- | ------------ |
+| Kandan Kathirvel (Chair) | Google |
+| Sana Tariq (Vice-Chair) | Telus |
+| Sandeep Sharma | Aarna Networks |
+| Erhan Lokman / Erol Ozcan | Argela |
+| Daniel Bernier / Marc-Alexandre Choquette | Bell Canada |
+| Sandip Sarkar / Chandra Thakare | Capgemini |
+| Eric Gaudet | Casa Systems |
+| Bernard Tsai | Deutsche Telekom |
+| Oleg Berzin |Equinix |
+| Ciaran Johnston | Ericsson |
+| Sanju Abraham / Ravi Ravindran | F5 |
+| Cathy Zhang / Sundar Nadathur | Intel |
+| Sebastian Scheele | Kubermatic |
+| Jane Shen | Mavenir |
+| Timo Perala / Wim Henderickx | Nokia |
+| Eric Debeau | Orange |
+| Fabrizio Moggio | TIM |
+| Gene Bagwell | Verizon |
+| Hunor Demeter / Padma Sudarsan | VMware |
+| Iain Wilkinson / Riccardo Gasparetto Stori | Vodafone |
+| Seshu Kumar Mudiganti | Wind River |
 
 ## Contributors and committers
 

@@ -41,7 +41,7 @@ how to create a pull request.
 | Oleg Berzin |Equinix |
 | Ciaran Johnston | Ericsson |
 | Sanju Abraham / Ravi Ravindran | F5 |
-| Cathy Zhang / Sundar Nadathur | Intel |
+| Sundar Nadathur | Intel |
 | Sebastian Scheele | Kubermatic |
 | Jane Shen | Mavenir |
 | Timo Perala / Wim Henderickx | Nokia |

@@ -22,9 +22,8 @@ submitting a pull request to this file with the following information:
 The first two should be added to the table below using the same format as the
 other rows. The TSC nominee should be added to the TSC Nominees list.
 
-Interested organizations should submit pull requests to this file by May 31,
-2022. The [CONTRIBUTING.md](CONTRIBUTING.md) file contains an explanation of
-how to create a pull request.
+The [CONTRIBUTING.md](CONTRIBUTING.md) file contains an explanation of how to
+create a pull request.
 
 ## Technical Steering Committee (TSC) - Voting Members
 
@@ -33,6 +32,7 @@ how to create a pull request.
 | Kandan Kathirvel (Chair) | Google |
 | Sana Tariq (Vice-Chair) | Telus |
 | Sandeep Sharma | Aarna Networks |
+| Raj Panchapakesan / Rahul Jadhav | AccuKnox |
 | Erhan Lokman / Erol Ozcan | Argela |
 | Daniel Bernier / Marc-Alexandre Choquette | Bell Canada |
 | Sandip Sarkar / Chandra Thakare | Capgemini |
@@ -142,3 +142,5 @@ how to create a pull request.
 | Gene Bagwell              | [mebagwell](https://github.com/mebagwell)             | Verizon          |           |
 | Bharath Thiruveedula      | [bharath-vz](https://github.com/bharath-vz)           | Verizon          |           |
 | Satyendra Gupta           | [Satya959](https://github.com/Satya959)               | Verizon          |           |
+| Rahul Jadhav              | [nyrahul](https://github.com/nyrahul)                 | AccuKnox         |           |
+| Gaurav Mishra             | [gkm26](https://github.com/gkm26)                     | AccuKnox         |           |

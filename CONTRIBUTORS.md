@@ -27,12 +27,12 @@ create a pull request.
 
 ## Technical Steering Committee (TSC) - Voting Members
 
-| Name | Organization |
-| ---- | ------------ |
+| Name / Alternate | Organization |
+| ---------------- | ------------ |
 | Kandan Kathirvel (Chair) | Google |
 | Sana Tariq (Vice-Chair) | Telus |
 | Sandeep Sharma | Aarna Networks |
-| Raj Panchapakesan / Rahul Jadhav | AccuKnox |
+| Raj Panchapakesan | AccuKnox |
 | Erhan Lokman / Erol Ozcan | Argela |
 | Daniel Bernier / Marc-Alexandre Choquette | Bell Canada |
 | Sandip Sarkar / Chandra Thakare | Capgemini |
@@ -46,6 +46,8 @@ create a pull request.
 | Jane Shen | Mavenir |
 | Timo Perala / Wim Henderickx | Nokia |
 | Eric Debeau | Orange |
+| Bala Varadaraju | Red Hat |
+| Victor Morales | Samsung |
 | Fabrizio Moggio | TIM |
 | Gene Bagwell | Verizon |
 | Hunor Demeter / Padma Sudarsan | VMware |

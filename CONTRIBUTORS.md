@@ -146,3 +146,11 @@ create a pull request.
 | Satyendra Gupta           | [Satya959](https://github.com/Satya959)               | Verizon          |           |
 | Rahul Jadhav              | [nyrahul](https://github.com/nyrahul)                 | AccuKnox         |           |
 | Gaurav Mishra             | [gkm26](https://github.com/gkm26)                     | AccuKnox         |           |
+| Victor Morales            | [electrocucaracha](https://github.com/electrocucaracha) | Samsung        |           |
+| Radoslaw Chmiel           | [radoslawc](https://github.com/radoslawc)             | Samsung        |           |
+| Ganesh Chandrasekaran     | [ganchandrasekaran](https://github.com/ganchandrasekaran) | Samsung        |           |
+| Shailendra Rajpoot        | [shailendrarjpt](https://github.com/shailendrarjpt)   | Samsung        |           |
+| Subhash Kumar Singh       | [subh007](https://github.com/subh007)                 | Samsung        |           |
+| Joseph Thaliath           | [josephthaliath](https://github.com/josephthaliath)   | Samsung        |           |
+| Sandeep Kumar Jaisawal    | [sjaisawal](https://github.com/sjaisawal)             | Samsung        |           |
+| Ashish Jain               | [jain-ashish-sam](https://github.com/jain-ashish-sam) | Samsung        |           |
